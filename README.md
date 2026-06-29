@@ -39,13 +39,16 @@ The analytical solution is divided into two comprehensive interactive dashboards
 * **Key Metrics:** Total Customers, Repeat Purchase Rate.
 * **Core Visuals:**
     * Geographical/regional customer mapping.
+    * * **Payment Method vs. Revenue Breakdown:** Analysis of how different payment options affect overall revenue generation.
+    * **Repeat Purchase Frequency:** Distribution of customers based on their order count to analyze loyalty trends.
 
 ---
 
 ## 💡 Business Insights & Impact
 Based on the finalized Looker Studio visuals, several key business insights were identified:
 * **Inventory Optimization:** Highlighted seasonal peaks for key product categories to better manage supplier stock.
-* 
+* **Targeted Ad Optimization:** Identified top-performing geographical regions and customer locations to significantly improve ad targeting and budget efficiency.
+* **Product Portfolio Strategy:** Formed a "Top Products" matrix by analyzing the correlation between product popularity (order volume) and Average Order Value (AOV) to focus on high-margin winners.
 
 ---
 💬 **Connect with me on LinkedIn:** [Mariia Pantiukh]((https://www.linkedin.com/in/mariia-pantiukh-84a95432a/))
