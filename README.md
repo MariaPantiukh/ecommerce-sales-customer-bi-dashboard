@@ -5,7 +5,7 @@ This project focuses on building a complete Business Intelligence (BI) reporting
 
 The main goal was to transform raw CRM data into an automated visual ecosystem to drive data-backed decisions, optimize sales funnels, and improve customer retention.
 
-**🔗 Interactive Dashboard Link:** [Looker Studio Report](https://datastudio.google.google.com/reporting/383c485b-5c8d-4417-9767-ecf6405e5d3c)
+**🔗 Interactive Dashboard Link:** [Looker Studio Report](https://datastudio.google.com/reporting/383c485b-5c8d-4417-9767-ecf6405e5d3c)
 
 ---
 
