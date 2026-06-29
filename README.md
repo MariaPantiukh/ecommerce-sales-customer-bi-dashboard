@@ -33,6 +33,7 @@ The analytical solution is divided into two comprehensive interactive dashboards
 * **Key Metrics:** Total Revenue, Net Profit, Order Count, Conversion Rate.
 * **Core Visuals:** * Sales performance trends over time (MoM, YoY).
     * Top-performing product categories.
+<img width="461" height="350" alt="Знімок екрана 2026-06-29 151746" src="https://github.com/user-attachments/assets/7b1cdc3a-0b97-4956-9367-04bc378441cf" />
 
 ### 2. Customer Analytics Dashboard
 * **Objective:** Understand customer behavior, demographics, and purchasing habits.
@@ -41,6 +42,7 @@ The analytical solution is divided into two comprehensive interactive dashboards
     * Geographical/regional customer mapping.
     * * **Payment Method vs. Revenue Breakdown:** Analysis of how different payment options affect overall revenue generation.
     * **Repeat Purchase Frequency:** Distribution of customers based on their order count to analyze loyalty trends.
+<img width="463" height="351" alt="Знімок екрана 2026-06-29 151758" src="https://github.com/user-attachments/assets/f606dff7-450a-4905-a369-23b45c9bad7e" />
 
 ---
 
@@ -51,4 +53,4 @@ Based on the finalized Looker Studio visuals, several key business insights were
 * **Product Portfolio Strategy:** Formed a "Top Products" matrix by analyzing the correlation between product popularity (order volume) and Average Order Value (AOV) to focus on high-margin winners.
 
 ---
-💬 **Connect with me on LinkedIn:** [Mariia Pantiukh]((https://www.linkedin.com/in/mariia-pantiukh-84a95432a/))
+💬 **Connect with me on LinkedIn:** [Mariia Pantiukh](https://www.linkedin.com/in/mariia-pantiukh-84a95432a/)
